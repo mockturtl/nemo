@@ -1,3 +1,0 @@
-#!/bin/bash
-xgettext --language=C --from-code=UTF-8 --keyword=_ --output=nemo.pot src/*.c libnemo-extension/*.c libnemo-private/*.c eel/*.c nemo-sendto-extension/*.c
-
